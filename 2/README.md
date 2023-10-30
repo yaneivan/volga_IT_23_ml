@@ -5,7 +5,8 @@ https://github.com/xuexingyu24/License_Plate_Detection_Pytorch
 
 Я нашел похожий датасет на kaggle: 
 https://www.kaggle.com/datasets/tapakah68/yandextoloka-water-meters-dataset
-В этом датасете размечены окошки с показаниями у счетчиков и их значения. 
+В этом датасете размечены окошки с показаниями счетчиков и их значения. 
+
 ![изображение](https://github.com/yaneivan/volga_IT_23_ml/assets/93448742/68ede847-653b-42c4-afb1-1b4d3224d7df)
 
 Я нашел какую-то библиотку откуда можно загрузить предобученные модели сегментации. Еще там есть несколько разных функций потерь подходящих для сегментации
