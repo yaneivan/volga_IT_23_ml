@@ -3,7 +3,7 @@
 Сначала я хотел сделать решение на основе этого, но мне кажется это неподходящий способ:
 https://github.com/xuexingyu24/License_Plate_Detection_Pytorch
 
-Я нашел похожий датасет на kaggle: 
+Я нашел подходящий датасет на kaggle: 
 https://www.kaggle.com/datasets/tapakah68/yandextoloka-water-meters-dataset
 В этом датасете размечены окошки с показаниями счетчиков и их значения. 
 
